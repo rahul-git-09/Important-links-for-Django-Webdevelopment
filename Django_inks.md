@@ -3,7 +3,8 @@ Start with ---- Simplilearn Django Introduction
 
 Best youtube totorial to start with --- Corey Schafer Django (blog website development)
 <href = " https://coreyms.com/ "
-
+Best sites for find topic or steps for development
+<href = " https://djangocentral.com/ "
 Extended BlogWebsite tutorial with --- Abhisek Verma youtube (In Blog, commenting and searching etc.)
 <href = " https://www.youtube.com/watch?v=6hrcX7X9u9o&list=PLKILtxhEt4-RT-GkrDkJDLuRPQfSK-6Yi "
 
