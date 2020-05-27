@@ -15,3 +15,8 @@ and adding linebreak textarea (for example post description field formatting)
 https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#
 
 
+
+If you want to delete media files automatically (related to your profile or blog post)  the following snippits will help to solve this problem
+
+https://djangosnippets.org/snippets/10638/
+
