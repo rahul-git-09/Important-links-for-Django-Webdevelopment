@@ -9,3 +9,9 @@ Corey Schafer  heroku deployment video on youtube
 blog for changing dataase - https://blog.usejournal.com/deploying-django-to-heroku-connecting-heroku-postgres-fcc960d290d1
 
 
+Django documentation this file helps to apply formatting and filter options in various fields like addding word limit in textfield area
+and adding linebreak textarea (for example post description field formatting)
+
+https://docs.djangoproject.com/en/3.0/ref/templates/builtins/#
+
+
