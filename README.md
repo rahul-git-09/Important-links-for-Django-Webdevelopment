@@ -20,3 +20,12 @@ If you want to delete media files automatically (related to your profile or blog
 
 https://djangosnippets.org/snippets/10638/
 
+This below link help you to add search opotion in your site 
+https://learndjango.com/tutorials/django-search-tutorial
+
+
+the below link help you to add cke text editor to modify your text field
+https://github.com/django-ckeditor/django-ckeditor
+
+
+
